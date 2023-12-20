@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.addtodo.view.AddTODOActivity"
+    android:padding="10dp">
+
+    <EditText
+        android:id="@+id/titleEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:background="@drawable/edittext_border_background"
+        android:hint="@string/title"/>
+
+    <TextView
+        android:id="@+id/dateTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@drawable/edittext_border_background"
+        android:text="dd/mm/yyyy"
+        android:layout_marginTop="10dp"/>
+
+    <EditText
+        android:id="@+id/messageEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="@string/message"
+        android:padding="10dp"
+        android:gravity="left|top"
+        android:background="@drawable/edittext_border_background"
+        android:inputType="textMultiLine"
+        android:scrollbars="vertical" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/updateBTN"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/blue_500"
+        android:textColor="@color/white"
+        android:layout_marginTop="20dp"
+        android:textAllCaps="false"
+        android:text="@string/update"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/deleteBTN"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/red_500"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"
+        android:textAllCaps="true"
+        android:text="@string/delete"/>
+
+</LinearLayout>

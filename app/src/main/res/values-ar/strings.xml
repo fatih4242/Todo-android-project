@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">بيت</string>
+    <string name="settings">إعدادات</string>
+    <string name="title">عنوان</string>
+    <string name="message">رسالة</string>
+    <string name="add">يضيف</string>
+    <string name="update">تحديث</string>
+    <string name="delete">يمسح</string>
+    <string name="notification">إشعار</string>
+    <string name="close_ads">إغلاق الإعلانات</string>
+    <string name="you_have_something_to_do_today">لديك شيء لتفعله اليوم</string>
+    <string name="successfully_save">تم الحفظ بنجاح</string>
+    <string name="successfully_update">تم التحديث بنجاح</string>
+    <string name="successfully_delete">تم الحذف بنجاح</string>
+    <string name="are_you_sure">هل أنت متأكد</string>
+    <string name="are_you_sure_you_want_to_delete">هل أنت متأكد أنك تريد حذف</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+</resources>

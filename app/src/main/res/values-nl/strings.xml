@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Home</string>
+    <string name="settings">instellingen</string>
+    <string name="title">Titel</string>
+    <string name="message">bericht</string>
+    <string name="add">toevoegen</string>
+    <string name="update">update</string>
+    <string name="delete">verwijderen</string>
+    <string name="notification">Notification</string>
+    <string name="close_ads">advertenties sluiten</string>
+    <string name="you_have_something_to_do_today">Je hebt vandaag iets te doen</string>
+    <string name="successfully_save">Succesvol opslaan</string>
+    <string name="successfully_update">Succesvol bijwerken</string>
+    <string name="successfully_delete">Succesvol verwijderen</string>
+    <string name="are_you_sure">Weet je het zeker</string>
+    <string name="are_you_sure_you_want_to_delete">Weet je zeker dat je wilt verwijderen</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+</resources>

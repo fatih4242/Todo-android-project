@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Anasayfa</string>
+    <string name="settings">Ayarlar</string>
+    <string name="title">Başlık</string>
+    <string name="message">Mesaj</string>
+    <string name="add">Ekle</string>
+    <string name="update">Güncelle</string>
+    <string name="delete">Sil</string>
+    <string name="notification">Bildirim</string>
+    <string name="close_ads">Reklamları Kapat</string>
+    <string name="you_have_something_to_do_today">Bugün yapacak bir şeyin var</string>
+    <string name="successfully_save">Başarıyla kaydedildi</string>
+    <string name="successfully_update">Başarıyla güncellendi</string>
+    <string name="successfully_delete">Başarıyla silindi</string>
+    <string name="are_you_sure">Emin misin</string>
+    <string name="are_you_sure_you_want_to_delete">Bunu silmek istediğinden emin misin?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">家</string>
+    <string name="settings">設定</string>
+    <string name="title">標題</string>
+    <string name="message">訊息</string>
+    <string name="add">添加</string>
+    <string name="update">更新</string>
+    <string name="delete">刪除</string>
+    <string name="notification">通知</string>
+    <string name="close_ads">關閉廣告</string>
+    <string name="you_have_something_to_do_today">你今天有事要做</string>
+    <string name="successfully_save">保存成功</string>
+    <string name="successfully_update">更新成功</string>
+    <string name="successfully_delete">删除成功</string>
+    <string name="are_you_sure">你确定吗</string>
+    <string name="are_you_sure_you_want_to_delete">你确定你要删除</string>
+    <string name="yes">是的</string>
+    <string name="no">不</string>
+</resources>

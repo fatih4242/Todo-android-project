@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Home</string>
+    <string name="settings">Einstellungen</string>
+    <string name="title">Titel</string>
+    <string name="message">Nachricht</string>
+    <string name="add">hinzufügen</string>
+    <string name="update">aktualisieren</string>
+    <string name="delete">löschen</string>
+    <string name="notification">Benachrichtigung</string>
+    <string name="close_ads">"Anzeigen schließen "</string>
+    <string name="you_have_something_to_do_today">Sie haben heute etwas zu tun</string>
+    <string name="successfully_save">Erfolgreich gespeichert</string>
+    <string name="successfully_update">" Erfolgreich geupdated"</string>
+    <string name="successfully_delete">Erfolgreich gelöscht</string>
+    <string name="are_you_sure">Bist du sicher</string>
+    <string name="are_you_sure_you_want_to_delete">Sind Sie sicher, dass Sie das löschen möchten?</string>
+    <string name="yes">Ja</string>
+    <string name="no">NEIN</string>
+</resources>
